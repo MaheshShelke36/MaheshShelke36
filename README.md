@@ -1,4 +1,4 @@
-👋 Hi, I'm Mahesh!
+👋 Hi, I'm Mahesh!  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FMaheshShelke36&label=Page+Guests&icon=emoji-wink-fill&color=%23fd7e14&message=&style=flat-square&tz=UTC">
 
 ☕ Java Developer | 💻 Passionate about Coding & Problem Solving | 🌱 Always Learning | 🚀 Building Projects and Turning Ideas into Code
 
