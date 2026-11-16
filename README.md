@@ -1,7 +1,13 @@
 
+<div align="center">
+
 # Hi there, I'm Mahesh Machhindra Shelke 👋
 
 <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FMaheshShelke36&label=Page+Guests&icon=emoji-wink-fill&color=%23fd7e14&message=&style=for-the-badge&tz=UTC">
+
+</div>
+
+<br>
 
 ☕ Java Developer | 💻 Passionate about Coding & Problem Solving | 🌱 Always Learning | 🚀 Building Projects and Turning Ideas into Code
 
