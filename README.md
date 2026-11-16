@@ -45,7 +45,7 @@ I hold a B.Sc. in Computer Science from Dr. Babasaheb Ambedkar Marathwada Univer
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MaheshShelke36&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MaheshShelke36&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
 
 </div>
 ### 🚀 Featured Projects
@@ -62,10 +62,10 @@ I hold a B.Sc. in Computer Science from Dr. Babasaheb Ambedkar Marathwada Univer
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=MaheshShelke36&theme=dark&hide_border=false&include_all_commits=true&count_private=false"
+  <img src="https://github-readme-stats.shion.dev/api?username=MaheshShelke36&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false"
        alt="Mahesh's GitHub Stats" width="48%" height="200" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=MaheshShelke36&theme=dark&hide_border=false"
+  <img src="https://streak-stats.demolab.com/?user=MaheshShelke36&theme=codeSTACKr&hide_border=false"
        alt="Mahesh's GitHub Streak" width="48%" height="200" />
 </p>
 
