@@ -3,7 +3,7 @@
 
 # Hi there, I'm Mahesh Machhindra Shelke 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Penetration+Tester;Web+%7C+Android+%7C+API+Security" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Penetration+Tester;Web+%7C+Android+%7C+API+Security" /><br>
 
 <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FMaheshShelke36&label=Page+Guests&icon=emoji-wink-fill&color=%23fd7e14&message=&style=for-the-badge&tz=UTC">
 
