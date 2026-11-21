@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi there, I'm Mahesh Machhindra Shelke 👋
+# Hi there, I'm Mahesh Shelke 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Penetration+Tester;Web+%7C+Android+%7C+API+Security" /><br>
 
